@@ -1,0 +1,17 @@
+>>>The Rules for Checkers
+
+Checkers is a fun game for both beginers and experts.
+Checkers is an ancient and fun game, where players must 
+capture or stop the movement of all of their opponent’s pieces. 
+Getting one of the checkers to the other side of the board makes it a "king," 
+meaning it can jump forward and backwards. 
+Single checkers can still jump over kings, just as they can jump over single checkers.
+The rules are simple, but the strategies can be intricate and engaging.
+
+If you want to know more rules of checkers, please visit:
+
+http://www.indepthinfo.com/checkers/
+
+This website delves into the rules, history and strategy of checkers.
+You can navigate this site by clicking on the "next page" links at the bottom of each page.
+Or by clicking on the subject title of the nav-bar at the top of each page.
